@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Gerador de Código de Barras/1.0.0": {
+        "runtime": {
+          "Gerador de Código de Barras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gerador de Código de Barras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

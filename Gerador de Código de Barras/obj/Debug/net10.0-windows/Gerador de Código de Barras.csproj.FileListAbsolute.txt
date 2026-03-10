@@ -1,0 +1,14 @@
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\obj\Debug\net10.0-windows\Gerador de Código de Barras.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\obj\Debug\net10.0-windows\Gerador de Código de Barras.AssemblyInfoInputs.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\obj\Debug\net10.0-windows\Gerador de Código de Barras.AssemblyInfo.cs
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\obj\Debug\net10.0-windows\Gerador de Código de Barras.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\bin\Debug\net10.0-windows\Gerador de Código de Barras.exe
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\bin\Debug\net10.0-windows\Gerador de Código de Barras.deps.json
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\bin\Debug\net10.0-windows\Gerador de Código de Barras.runtimeconfig.json
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\bin\Debug\net10.0-windows\Gerador de Código de Barras.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\bin\Debug\net10.0-windows\Gerador de Código de Barras.pdb
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\obj\Debug\net10.0-windows\Gerador de Código de Barras.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\obj\Debug\net10.0-windows\refint\Gerador de Código de Barras.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\obj\Debug\net10.0-windows\Gerador de Código de Barras.pdb
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\obj\Debug\net10.0-windows\Gerador de Código de Barras.genruntimeconfig.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Gerador de Código de Barras\obj\Debug\net10.0-windows\ref\Gerador de Código de Barras.dll
